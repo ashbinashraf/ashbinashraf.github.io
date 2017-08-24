@@ -4,15 +4,11 @@ A fab lab is typically equipped with an array of flexible computer-controlled to
 ### Fablab MESCE
 "FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling.
 
+## About me
+I'm Ashbin Ashraf pursuing my B.tech Mechanical Engineering at MESCE Kuttippuram.
+Contact me:ashbinashraf@gmail.com
+           8606664889        
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
