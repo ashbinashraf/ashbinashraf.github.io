@@ -1,6 +1,9 @@
-## DAY ON
-          <img src="fhgfcshg" height="" width=''>DGSGDGD
-You can use the [editor on GitHub](https://github.com/ashbinashraf/ashbinashraf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About FABLAB
+A fab lab (fabrication laboratory) is a small-scale workshop offering digital fabrication.
+A fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything". This includes technology-enabled products generally perceived as limited to mass production.
+# Fablab MESCE
+"FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
